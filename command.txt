@@ -1,0 +1,13 @@
+- CREATE CLUSTER:
+make create KIND_CLUSTER_NAME=testing
+
+- START DEPLOYMENT:
+make start
+
+- STOP DEPLOYMENT:
+make stop
+
+- DELETE CLUSTER:
+make DELETE
+
+- 
